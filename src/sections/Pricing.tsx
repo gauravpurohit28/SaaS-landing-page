@@ -2,6 +2,7 @@ import CheckIcon from "@/assets/check.svg"
 import {twMerge} from "tailwind-merge"
 
 
+
 const pricingTiers = [
   {
     title: "Free",
